@@ -1,0 +1,17 @@
+📘 Phase 1 — Topic 3: Components
+
+Components are one of the most important concepts in React.
+
+What is a Component?
+
+A component is simply a reusable piece of UI.
+
+For example, instead of putting everything inside one huge App.jsx, we can create:
+
+Navbar
+Profile
+Button
+Card
+Footer
+
+and then combine them.
