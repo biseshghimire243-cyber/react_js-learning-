@@ -1,7 +1,7 @@
-import Exercise from "./02-jsx/exercise.jsx";
+import Product from "./02-jsx/exercise-02-product.jsx";
 
 function App() {
-    return <Exercise />;
+    return <Product />;
 }
 
 export default App;
