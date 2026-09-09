@@ -1,0 +1,34 @@
+Phase 1 — Topic 4: Props
+
+Props are one of the most important concepts in React because they allow us to send data from a parent component to a child component.
+
+Think of it like this:
+
+Parent Component
+      │
+      │  props
+      ↓
+Child Component
+1. What are Props?
+
+Props = Properties
+
+Example:
+
+<Student name="Bishesh" />
+
+Here:
+
+name="Bishesh"
+
+is a prop.
+
+The child component receives it:
+
+function Student(props) {
+    return <h2>{props.name}</h2>;
+}
+
+Output:
+
+Bishesh
