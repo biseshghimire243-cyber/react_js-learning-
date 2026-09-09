@@ -1,0 +1,27 @@
+Topic 3 — Components: Part 2
+1. Parent and Child Components
+
+When one component uses another component, we can call them:
+
+Parent Component
+      ↓
+Child Component
+
+Example:
+
+function Student() {
+    return <h2>Bishesh Ghimire</h2>;
+}
+
+function App() {
+    return (
+        <div>
+            <Student />
+        </div>
+    );
+}
+
+Here:
+
+App → Parent
+Student → Child
