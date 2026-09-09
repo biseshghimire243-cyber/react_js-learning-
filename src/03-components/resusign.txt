@@ -1,0 +1,20 @@
+2. Reusing Components
+One of the biggest advantages of components is reusability.
+
+For example:
+
+function Skill() {
+    return <li>React.js</li>;
+}
+We can reuse it:
+
+function App() {
+    return (
+        <ul>
+            <Skill />
+            <Skill />
+            <Skill />
+        </ul>
+    );
+}
+We'll later make each one display different information usin
