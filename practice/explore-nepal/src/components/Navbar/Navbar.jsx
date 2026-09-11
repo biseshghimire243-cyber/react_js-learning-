@@ -1,4 +1,3 @@
-```jsx
 function Navbar() {
     return (
         <nav className="navbar">
@@ -22,4 +21,3 @@ function Navbar() {
 }
 
 export default Navbar;
-```

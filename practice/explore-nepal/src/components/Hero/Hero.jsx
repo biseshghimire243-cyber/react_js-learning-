@@ -1,4 +1,3 @@
-```jsx
 function Hero() {
     return (
         <section className="hero">
@@ -32,4 +31,3 @@ function Hero() {
 }
 
 export default Hero;
-```
