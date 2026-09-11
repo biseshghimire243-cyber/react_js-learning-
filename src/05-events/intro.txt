@@ -1,0 +1,19 @@
+Phase 1 — Topic 5: Events
+
+You've learned:
+
+Introduction to React
+JSX
+Components
+Props
+Events ← Now
+
+Events make your React application interactive.
+
+For example:
+
+Clicking a button
+Typing in an input
+Submitting a form
+Moving the mouse
+Changing a selection
