@@ -1,4 +1,4 @@
-import Product from "./02-jsx/exercise-02-product.jsx";
+import Product from "./01-introduction/program-03-profile";
 
 function App() {
     return <Product />;

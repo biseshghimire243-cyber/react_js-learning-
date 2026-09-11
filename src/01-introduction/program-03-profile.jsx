@@ -1,8 +1,8 @@
 function App() {
     const name = "Bishesh Ghimire";
     const age = 23;
-    const profession = "Web Developer";
-    const experience = 2;
+    const profession = "student";
+    const experience = "Beginners";
 
     return (
         <div>
@@ -12,13 +12,13 @@ function App() {
 
             <p>Age: {age}</p>
             <p>Profession: {profession}</p>
-            <p>Experience: {experience} years</p>
+            <p>Experience: {experience} learning</p>
 
             <h3>About Me</h3>
 
             <p>
                 My name is {name}. I am a {profession}.
-                I have {experience} years of experience.
+                
             </p>
         </div>
     );
