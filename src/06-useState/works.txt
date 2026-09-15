@@ -1,0 +1,21 @@
+How it works
+
+Initially:
+
+useState(0)
+
+so:
+
+count = 0
+
+When you click:
+
+setCount(count + 1);
+
+React changes:
+
+0 → 1
+1 → 2
+2 → 3
+
+and automatically re-renders the component.
