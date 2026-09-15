@@ -1,0 +1,23 @@
+Basic Syntax
+
+First import useState:
+
+import { useState } from "react";
+
+Then create state:
+
+const [count, setCount] = useState(0);
+
+Think of it like this:
+
+count
+  ↓
+Current value
+
+setCount
+  ↓
+Function used to change the value
+
+useState(0)
+  ↓
+Initial value = 0
