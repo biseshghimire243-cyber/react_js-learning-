@@ -1,0 +1,19 @@
+What is Conditional Rendering?
+
+Conditional rendering means:
+
+Show different UI depending on a condition.
+
+For example:
+
+If user is logged in
+→ Show "Welcome Bishesh"
+
+If user is not logged in
+→ Show "Please Login"
+
+React commonly uses:
+
+if...else
+Ternary operator ? :
+&& operator
