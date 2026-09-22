@@ -1,0 +1,13 @@
+Lists and .map() in React
+
+This is a very important React topic because real websites rarely have only one item. We need to display lists of:
+
+Students
+Products
+Destinations
+Courses
+Users
+Orders
+etc.
+
+React commonly uses JavaScript's .map() method to display these lists.
