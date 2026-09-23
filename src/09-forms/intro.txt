@@ -1,0 +1,16 @@
+Forms in React
+
+Forms are everywhere in real applications:
+
+Login
+Register
+Contact
+Search
+Checkout
+Feedback
+Profile
+Admin panels
+
+React handles form inputs using events and state.
+
+9.1 Basic Input
