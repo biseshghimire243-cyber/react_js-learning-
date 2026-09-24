@@ -1,0 +1,39 @@
+Topic 11: Component Organization
+
+In Phase 1, we learned how components work. Now we'll learn how to organize them like a real React project.
+
+Phase 2 roadmap
+11. Component Organization
+12. Reusable Components
+13. Lifting State Up
+14. Controlled Components
+15. useEffect
+16. API / Fetch
+17. Loading & Error Handling
+18. React Router
+19. Dynamic Routes
+20. Phase 2 Project
+11. Component Organization
+
+Instead of putting everything into one App.jsx, we separate components into folders.
+
+A professional structure can look like:
+
+src/
+├── components/
+│   ├── Header/
+│   │   └── Header.jsx
+│   │
+│   ├── StudentCard/
+│   │   └── StudentCard.jsx
+│   │
+│   └── Footer/
+│       └── Footer.jsx
+│
+├── pages/
+│   └── Home.jsx
+│
+├── App.jsx
+└── main.jsx
+
+This makes a large application easier to maintain.
