@@ -18,4 +18,5 @@ function App() {
     );
 }
 
-export default App; the data has bene added well and modified and function askhASDHFBFdfhHLFDWHSF
+export default App; the data has bene added well and modified and function askhASDHFBFdfhHLFDWHSF and managed to git it done 
+
