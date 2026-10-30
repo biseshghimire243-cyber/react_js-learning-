@@ -1,1 +1,8 @@
 1) all the necessary things are made with the main rwason of the managening in the aterial like the main things is the main item on it 
+
+ git add .
+ git commit -m "the all the text are managed well and gooded way"
+ git push
+
+
+2) the main point is to make it more clesr and easy to understand
