@@ -37,3 +37,6 @@ export default function App() {
   );
 } 
 // the main things is that it can impact on the very wide way and can make the sifference in the terms of the diffeerent things and can make it in the wide erange 
+
+
+// the main things is that it can impact on the very wide way and can make the sifference in the terms of the diffeerent things and can make it in the wide erange
