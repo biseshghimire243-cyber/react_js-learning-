@@ -55,3 +55,4 @@ export default App;
 // trhwtrtqtjqkeblajbgqeffb;iqerlfqerbfqierbfqlerbqitqu3;r
 
 // the different things are like fir in the box
+//  the text aew stactter and  gathers well
