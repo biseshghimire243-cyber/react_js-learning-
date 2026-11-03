@@ -53,3 +53,5 @@ export default App;
 
 // the finctuodfj;.SDFLSIDJF djflWBF wlf;WF
 // trhwtrtqtjqkeblajbgqeffb;iqerlfqerbfqierbfqlerbqitqu3;r
+
+// the different things are like fir in the box
