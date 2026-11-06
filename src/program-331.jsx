@@ -80,3 +80,7 @@ function App() {
 }
 
 export default App;
+
+
+
+// the different things are done on the demand ofit and managed on it 
