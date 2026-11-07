@@ -15,3 +15,6 @@
 9) 
 ti also get like it is the main thigs jon it 
 ti also get like it is the main thigs jon it 
+git add .
+ git commit -m "the all the text are managed well and gooded way"
+ git push
