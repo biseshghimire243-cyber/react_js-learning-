@@ -85,4 +85,5 @@ export default App;
 
 // the different things are done on the demand ofit and managed on it 
 
-// the managed well are also place on the different thigs on it 
+// the managed well are also place on the different thigs on it
+// the different thdfawfb WJHFLw,fh
