@@ -425,4 +425,12 @@ git add .
  git commit -m "the all the text are managed well and gooded way"
  git push
 
+ git add .
+ git commit -m "the all the text are managed well and gooded way"
+ git push
+
+ git add .
+ git commit -m "the all the text are managed well and gooded way"
+ git push
+
  
