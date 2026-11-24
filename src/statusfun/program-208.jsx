@@ -28,3 +28,4 @@ export default function App() {
     </div>
   );
 }
+// the main things in the progrna  is to act and maintain the relatonshop betweemn the main things on it and manage to it 
